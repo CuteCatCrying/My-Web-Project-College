@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="User Data Source - jdbc:mysql://localhost:3306/dbecommerce_1811081030" uuid="a2210ac7-7afa-4b99-b83c-2bb3ab0302ed">
+      <synchronize>true</synchronize>
+      <configured-by-url>true</configured-by-url>
+      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://localhost:3306/dbecommerce_1811081030</jdbc-url>
+    </data-source>
+  </component>
+</project>
